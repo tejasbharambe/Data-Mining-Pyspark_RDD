@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining (@Recruiters and Hiring Managers, please contact for access)
 ## Spring 2022 USC DSCI553 (Foundations and Applications of Data Mining)
 
 #### Description
